@@ -8,3 +8,4 @@
 - 🤔 I’m looking for help with ... Cloud platforms
 - 📫 How to reach me: ... dharpranoy2255@gmail.com https://www.linkedin.com/in/pranoydhar2255
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dharpranoy&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dharpranoy)
