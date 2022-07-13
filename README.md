@@ -11,12 +11,9 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dharpranoy&layout=compact)
 <html>
       <head>
-            <style>
-                  img{
-                        height:1rem;
-                        width:1rem;
-                  }
-            </style>
+            
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
       </head>
       <body>
             <div>
