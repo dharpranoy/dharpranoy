@@ -1,6 +1,6 @@
 ### Pranoy Dhar 👋
 
-
+![](https://komarev.com/ghpvc/?username=dharpranoy)
 
 - 🔭 I’m currently working on ... Backend Engineer
 - 🌱 I’m currently learning ... Data Science and 2D game development
