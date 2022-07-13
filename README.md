@@ -11,6 +11,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=dharpranoy&layout=compact)
 
 <div>
-  <img height='1rem' width='1rem' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+  <img height=250 width=250 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
 </div>
     
