@@ -2,10 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=dharpranoy)
 
-- 🔭 I’m currently working on ... Backend Engineer
-- 🌱 I’m currently learning ... Data Science and 2D game development
-- 👯 I’m looking to collaborate on ... Machine Learning Projects
-- 🤔 I’m looking for help with ... Cloud platforms
+Backend Engineer, Linux, BSD System Expert
 - 📫 How to reach me: ... 
 <a href="https://www.linkedin.com/in/pranoydhar2255"><img height=80 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 ### My email : dharpranoy2255@gmail.com
