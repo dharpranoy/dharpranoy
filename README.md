@@ -1,4 +1,4 @@
-### Pranoy Dhar 👋
+### Pranoy Dhar 
 
 ![](https://komarev.com/ghpvc/?username=dharpranoy)
 
